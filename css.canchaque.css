@@ -1,0 +1,17 @@
+.parrafo::first-letter {
+    font-size: 36px; 
+    font-weight: bold; 
+    line-height: 1;
+    
+}
+.imagenes {
+    display: flex;
+    justify-content: center;
+}
+.imagenes img {
+    height: 150px;
+    margin: 1px;
+}
+.enlaces {
+    text-align: center;
+}

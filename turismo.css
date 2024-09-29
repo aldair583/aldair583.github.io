@@ -1,0 +1,14 @@
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.imagen img {
+    max-width: 500px;
+    height: 400px;
+}
+.parrafo {
+    font-size: 20px;
+    justify-content: center;
+}
